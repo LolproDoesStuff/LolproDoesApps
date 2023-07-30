@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Lolpro!
 - 👀 I’m interested in computers, videogames and music
-- 🤔 You probably found me in the comments of something...
+- 🐍 Currently working on SnakeGPT
+- ⛏️ Minecraft player
 - 🇮🇹 Italian guy
-- ➡️ solo.to/lolpro for more :)
-
-
-
-
+- 🥙 Poke enjoyer
 - 🤪 And remember: Rick will never give us up
