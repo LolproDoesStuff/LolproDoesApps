@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lolpro!
 - 👀 I’m interested in computers, videogames and music
-- 🐍 Currently working on SnakeGPT
+- 🐍 Currently working on my lil website
 - ⛏️ Minecraft player
 - 🇮🇹 Italian guy
 - 🥙 Poke enjoyer
