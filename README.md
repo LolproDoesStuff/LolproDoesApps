@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lolpro!
 - 👀 I’m interested in computers, videogames and music
-- 🐍 Currently working on my lil website
+- 🐍 Currently working on random Linux stuff
 - ⛏️ Minecraft player
 - 🇮🇹 Italian guy
 - 🥙 Poke enjoyer
-- 🤪 And remember: Rick will never give us up
+- 🚍 Professional TEP hater 
